@@ -1,3 +1,17 @@
 h1 {
-  color: salmon;
+  color: rgb(17, 16, 16);
+  text-align: center;
+  display: block;
+}
+h3 {
+  display: block;
+  text-align: center;
+}
+#spots1 {
+  display: flex;
+  max-width: 10%;
+}
+#spots2 {
+  display: flex;
+  max-width: 10%;
 }
